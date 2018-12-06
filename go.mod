@@ -1,1 +1,1 @@
-module github.com/Promisewu/testmod
+module github.com/robteix/testmod/v2
